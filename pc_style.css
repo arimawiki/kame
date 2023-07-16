@@ -208,6 +208,10 @@ a:focus {
   font-weight: normal;
 }
 
+.logo img {
+  float:left;
+}
+
 #header h1 {
   font-size: 11px;
   color: #444;
